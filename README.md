@@ -8,7 +8,7 @@ ensuring I stay at the forefront of this dynamic field.
 
 📫 How to reach me: amin.rane12@gmail.com, [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-rane-20256a216/)
 
-📄 Checkout my resume here: https://drive.google.com/file/d/1foH3OhQaWzGV0FY58xb4bfgFU-HZUIBd/view?usp=sharing
+📄 Checkout my resume here: [https://drive.google.com/file/d/1foH3OhQaWzGV0FY58xb4bfgFU-HZUIBd/view?usp=sharing](https://drive.google.com/file/d/15XjKWLDBCjMhny98sOGxzJj1OKmAiLaq/view?usp=sharing)
 <!--
 **AminRane/AminRane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
